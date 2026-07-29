@@ -106,8 +106,7 @@ SQL queries were used for:
 
 ### Executive Dashboard
 
-*(Add Executive Dashboard Screenshot)*
-
+HR_Analytics_Dashboard_1.png
 ### Employee Insights & Attrition Analysis
 
 *(Add Employee Insights Screenshot)*
