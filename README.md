@@ -109,13 +109,10 @@ SQL queries were used for:
 HR_Analytics_Dashboard_1.png
 ### Employee Insights & Attrition Analysis
 
-*(Add Employee Insights Screenshot)*
-
+HR_Analytics_Dashboard_2.png
 ### Retention & Workforce Analysis
 
-*(Add Retention Dashboard Screenshot)*
-
----
+HR_Analytics_Dashboard_3.png
 
 ## Project Files
 
